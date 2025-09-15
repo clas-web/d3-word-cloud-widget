@@ -11,7 +11,7 @@
  * @author     Crystal Barton <atrus1701@gmail.com>
  */
 if( !class_exists('D3WordCloud_WidgetShortcodeControl') ):
-class D3WordCloud_WidgetShortcodeControl extends WidgetShortcodeControl
+class D3WordCloud_WidgetShortcodeControl extends D3WordCloud_WidgetShortcodeControl_Base
 {
 	
 	/**
